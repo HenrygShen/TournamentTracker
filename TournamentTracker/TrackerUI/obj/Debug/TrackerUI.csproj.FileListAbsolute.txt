@@ -12,3 +12,20 @@ C:\Users\Henry\Documents\Visual Studio 2017\Projects\TournamentTracker\TrackerUI
 C:\Users\Henry\Documents\Visual Studio 2017\Projects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
 C:\Users\Henry\Documents\Visual Studio 2017\Projects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
 C:\Users\Henry\Documents\Visual Studio 2017\Projects\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\User\Desktop\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb

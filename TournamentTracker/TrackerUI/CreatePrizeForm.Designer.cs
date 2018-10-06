@@ -50,7 +50,7 @@
             this.headerLabel.Location = new System.Drawing.Point(24, 21);
             this.headerLabel.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.headerLabel.Name = "headerLabel";
-            this.headerLabel.Size = new System.Drawing.Size(210, 50);
+            this.headerLabel.Size = new System.Drawing.Size(313, 74);
             this.headerLabel.TabIndex = 12;
             this.headerLabel.Text = "Create Prize";
             // 
@@ -58,7 +58,7 @@
             // 
             this.placeNumberValue.Location = new System.Drawing.Point(258, 95);
             this.placeNumberValue.Name = "placeNumberValue";
-            this.placeNumberValue.Size = new System.Drawing.Size(211, 35);
+            this.placeNumberValue.Size = new System.Drawing.Size(211, 49);
             this.placeNumberValue.TabIndex = 24;
             // 
             // placeNumberLabel
@@ -68,7 +68,7 @@
             this.placeNumberLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.placeNumberLabel.Location = new System.Drawing.Point(39, 93);
             this.placeNumberLabel.Name = "placeNumberLabel";
-            this.placeNumberLabel.Size = new System.Drawing.Size(183, 37);
+            this.placeNumberLabel.Size = new System.Drawing.Size(277, 55);
             this.placeNumberLabel.TabIndex = 23;
             this.placeNumberLabel.Text = "Place Number";
             // 
@@ -76,7 +76,7 @@
             // 
             this.placeNameValue.Location = new System.Drawing.Point(258, 142);
             this.placeNameValue.Name = "placeNameValue";
-            this.placeNameValue.Size = new System.Drawing.Size(211, 35);
+            this.placeNameValue.Size = new System.Drawing.Size(211, 49);
             this.placeNameValue.TabIndex = 26;
             // 
             // placeNameLabel
@@ -86,7 +86,7 @@
             this.placeNameLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.placeNameLabel.Location = new System.Drawing.Point(39, 140);
             this.placeNameLabel.Name = "placeNameLabel";
-            this.placeNameLabel.Size = new System.Drawing.Size(157, 37);
+            this.placeNameLabel.Size = new System.Drawing.Size(237, 55);
             this.placeNameLabel.TabIndex = 25;
             this.placeNameLabel.Text = "Place Name";
             // 
@@ -94,8 +94,9 @@
             // 
             this.prizeAmountValue.Location = new System.Drawing.Point(258, 189);
             this.prizeAmountValue.Name = "prizeAmountValue";
-            this.prizeAmountValue.Size = new System.Drawing.Size(211, 35);
+            this.prizeAmountValue.Size = new System.Drawing.Size(211, 49);
             this.prizeAmountValue.TabIndex = 28;
+            this.prizeAmountValue.Text = "0";
             // 
             // prizeAmountLabel
             // 
@@ -104,7 +105,7 @@
             this.prizeAmountLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.prizeAmountLabel.Location = new System.Drawing.Point(39, 187);
             this.prizeAmountLabel.Name = "prizeAmountLabel";
-            this.prizeAmountLabel.Size = new System.Drawing.Size(176, 37);
+            this.prizeAmountLabel.Size = new System.Drawing.Size(267, 55);
             this.prizeAmountLabel.TabIndex = 27;
             this.prizeAmountLabel.Text = "Prize Amount";
             // 
@@ -112,8 +113,9 @@
             // 
             this.prizePercentageValue.Location = new System.Drawing.Point(258, 322);
             this.prizePercentageValue.Name = "prizePercentageValue";
-            this.prizePercentageValue.Size = new System.Drawing.Size(211, 35);
+            this.prizePercentageValue.Size = new System.Drawing.Size(211, 49);
             this.prizePercentageValue.TabIndex = 30;
+            this.prizePercentageValue.Text = "0";
             // 
             // prizePercentageLabel
             // 
@@ -122,7 +124,7 @@
             this.prizePercentageLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.prizePercentageLabel.Location = new System.Drawing.Point(39, 322);
             this.prizePercentageLabel.Name = "prizePercentageLabel";
-            this.prizePercentageLabel.Size = new System.Drawing.Size(213, 37);
+            this.prizePercentageLabel.Size = new System.Drawing.Size(321, 55);
             this.prizePercentageLabel.TabIndex = 29;
             this.prizePercentageLabel.Text = "Prize Percentage";
             // 
@@ -133,7 +135,7 @@
             this.orLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.orLabel.Location = new System.Drawing.Point(231, 256);
             this.orLabel.Name = "orLabel";
-            this.orLabel.Size = new System.Drawing.Size(64, 37);
+            this.orLabel.Size = new System.Drawing.Size(94, 55);
             this.orLabel.TabIndex = 31;
             this.orLabel.Text = "-or-";
             // 
@@ -151,10 +153,11 @@
             this.createPrizeButton.TabIndex = 32;
             this.createPrizeButton.Text = "Create Prize";
             this.createPrizeButton.UseVisualStyleBackColor = true;
+            this.createPrizeButton.Click += new System.EventHandler(this.createPrizeButton_Click);
             // 
             // CreatePrizeForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 45F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(521, 507);
